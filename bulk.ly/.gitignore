@@ -1,0 +1,9 @@
+node_modules
+public/storage
+public/hot
+public/data
+public/.htaccess
+storage/*.key
+vendor
+.idea
+.env

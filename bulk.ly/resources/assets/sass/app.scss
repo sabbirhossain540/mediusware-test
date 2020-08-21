@@ -1,0 +1,515 @@
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+// Variables
+@import "variables";
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "node_modules/font-awesome/scss/font-awesome";
+
+
+
+::-webkit-scrollbar {
+    width: 2px;
+}
+ 
+::-webkit-scrollbar-track {
+	background: #555;
+    border-radius: 0px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    background: #d1d1d1;
+
+}
+
+
+
+.auth-container{
+	.panel {
+		border: 0px solid transparent;
+		border-radius: 0px;
+		box-shadow: 0px 12px 20px 5px rgba(0, 0, 0, 0.05);
+			.navbar{
+				border:0px;
+				background: #0e1a35;
+				border-radius: 0px;
+				margin: -15px;				
+					.navbar-brand{
+						height:initial;
+						padding: 24px 15px;
+					}
+					li > a{
+						padding: 36px 25px;
+						font-size: 21px;
+						color: #fff;
+						font-weight:600;
+						border-bottom: 5px solid transparent;
+						&:hover{
+							background: transparent;
+							border-bottom: 5px solid #5ccae7;
+						}
+					}
+					li.active > a{
+						background: transparent;
+						border-bottom: 5px solid #5ccae7;
+					}
+				}
+				.tab-pane h3{
+					padding:50px;
+					padding-bottom:0px;
+					font-size: 33px;
+				}
+				.form-horizontal{
+					padding:50px;
+					.form-control{
+						border: 0px solid #ccd0d2;
+						border-bottom: 1px solid #ccd0d2;
+						border-radius: 0px;
+						box-shadow: none;
+						padding: 15px 50px;
+						margin-bottom: 10px;
+						height: initial;
+						padding-right: 15px;
+					}
+					.form-control.nlp{
+						padding-left: 0px;
+					}
+
+
+					.btn-block{
+						max-width:250px;
+						margin:0 auto;
+						margin-top:15px;
+			padding-top: 13px;
+			padding-bottom: 13px;
+					}
+					.btn-link{
+						margin-top:15px;
+					}
+				}
+	}
+}
+
+
+
+
+.channel-activity{
+	.list-unstyled >li {
+	    line-height: 28px;
+
+	}
+
+	.facebook.fa{
+		color: #25396e;
+	}
+	.google.fa{
+		color: #5584ff;
+	}
+	.linkedin.fa{
+			color: #5ccae7;
+	}
+	.twitter.fa{
+		color: #3755a4
+	}
+ .list-unstyled{
+	margin-bottom:0px;
+	float: right;
+	width: 60%;
+}
+
+
+.media-left {
+	position:relative;
+	.total-post{
+	    position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    transform: translate(-50%, -50%);
+	    font-size: 22px;
+	    line-height: 20px;
+	    text-align:center;
+	    span{
+	    	font-size: 16px;
+	    }
+	}
+
+
+
+}
+
+}
+
+
+.home-block{
+	> .col-md-4> .panel > .panel-body {
+		padding-top:0px;
+		padding-bottom:0px;
+		h3{
+		    margin-top: 0px;
+		    margin-bottom: 0px;
+		    padding: 20px 0;
+
+		}
+		> .panel{
+			margin-left:-15px;
+			margin-right:-15px;
+			margin-bottom:-1px;
+			border-radius:0px;
+			border-left:0px;
+			border-right:0px;
+		}
+	}
+}
+.payment-form{
+	padding-top:55px;
+	padding-bottom:55px;
+	.btn-group-container{
+		display: inline-block;
+		.btn-group{
+			display: block;
+		}
+		.btn{
+			padding: 10px 12px;
+			border-radius: 25px;
+			padding-left: 25px;
+			padding-right: 25px;
+			min-width: 85px;
+			box-shadow: none;
+			
+		}	
+		.btn-default:active, 
+		.btn-default.active, 
+		.open > .btn-default.dropdown-toggle {
+		    color: #fff;
+		    background-color: #5584ff;
+		    border-color: #5584ff;
+		}
+		+ .btn-group-container{
+			margin-left:25px;
+			position: relative;
+		}
+		label {
+			span{
+			    position: absolute;
+			    top: -35px;
+			    color: #636b6f;
+			    left: 50%;
+			    transform: translateX(-50%);
+			}
+		}
+	}
+	 .table > tbody > tr > td{
+	 	border-top: 0px;
+		.form-control{
+			box-shadow: none;
+		    border-radius: 0px;
+		    padding-left: 50px;
+		    height: 45px;
+		    margin-bottom: 14px;
+		    border: 0px;
+		    border-bottom: 1px solid #ddd;
+		}
+		.form-control.pl15{
+			padding-left: 15px;
+		}
+	 }
+	 .divi{
+	 	position: relative;
+	 	    top: -6px;
+	 }
+	 .submit.btn{
+	    padding: 10px 12px;
+	    display: block;
+	    border-radius: 25px;
+	    color: #fff;
+	    background-color: #5584ff;
+	    border-color: #5584ff;
+	    width: 100%;
+	    max-width: 300px;
+	    margin: 0 auto;
+	    margin-bottom: 20px;
+	 }
+
+	 .trial{
+	 	text-align:center;
+	 }
+
+	 td.form-inline {
+	 	     position: relative;
+
+		 &:after{
+		    content: "";
+		    position: relative;
+		    height: 1px;
+		    background: #ddd;
+		    display: block;
+		    top: -15px;
+		 }
+	 }
+
+	 .coppare_link{
+	 position: absolute;
+	 left: 50%;
+	 bottom: -25px;
+	 transform: translateX(-50%);
+		font-size: 12px;
+	 }
+
+	 .alert-danger{
+	 	margin-bottom: 50px;
+	 }
+}
+
+
+.schedule-update{
+	border:0px;
+	border-radius: 0px;
+	form{
+		width: 385px;
+		padding: 20px;
+		h4{
+			text-transform: uppercase;
+			margin-bottom: 25px;
+		}
+		.schedule {
+			span:not(.quan){
+				display: block;
+			}
+			.radio-inline{
+				margin-left: 0px;
+    			padding-left: 0px;
+       			width: 70px;
+			    input{
+			    	position: relative;
+			    	margin-left: 0px;
+			    }
+			}
+		}
+		.form-group{
+			select.form-control{
+			    border: 1px solid #8492af !important;
+			    border-radius: 25px;
+			    padding: 5px 8px;
+			    box-sizing: content-box;
+			    padding-left: 12px;
+			    padding-right: 3px;
+			}
+		}
+ .btn-default {
+    background: #5584ff !important;
+        padding: 10px 73px;
+}
+
+	}
+}
+
+
+input[type=range] {
+  -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+  width: 100%; /* Specific width is required for Firefox. */
+  background: transparent; /* Otherwise white in Chrome */
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+input[type=range]:focus {
+  outline: none; /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  cursor: pointer;
+
+  /* Hides the slider so custom styles can be added */
+  background: transparent; 
+  border-color: transparent;
+  color: transparent;
+}
+
+/* Special styling for WebKit/Blink */
+input[type=range]::-webkit-slider-thumb {
+  border: 1px solid #18cd00;
+  height: 16px;
+  width: 16px;
+  position: relative;
+  top: -8px;
+  border-radius: 8px;
+  background: #18cd00;
+  cursor: pointer;
+}
+
+/* All the same stuff for Firefox */
+input[type=range]::-moz-range-thumb {
+  border: 1px solid #18cd00;
+  height: 16px;
+  width: 16px;
+  position: relative;
+  top: -8px;
+  border-radius: 8px;
+  background: #18cd00;
+  cursor: pointer;
+}
+
+/* All the same stuff for IE */
+input[type=range]::-ms-thumb {
+  border: 1px solid #18cd00;
+  height: 16px;
+  width: 16px;
+  position: relative;
+  top: -8px;
+  border-radius: 8px;
+  background: #18cd00;
+  cursor: pointer;
+}
+
+
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 2px;
+  cursor: pointer;
+  background: #dadee7;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #367ebd;
+}
+
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 2px;
+  cursor: pointer;
+  background: #dadee7;
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 2px;
+  cursor: pointer;
+  background: #dadee7;
+}
+input[type=range]::-ms-fill-lower {
+  background: #2a6495;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #3071a9;
+}
+input[type=range]::-ms-fill-upper {
+  background: #3071a9;
+  border: 0.2px solid #010101;
+  border-radius: 2.6px;
+  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #367ebd;
+}
+
+input[type="range"].form-control {
+    box-shadow: none !important;
+    border-bottom: 0px solid #ddd;
+}
+
+.fa-btn{
+	padding-left: 35px;
+}
+
+.nlp{
+	padding-left: 0px !important;
+}
+
+.rss_lists .social-post:first-child{
+	border-top: 1px solid #d3e0e9 !important;
+}
+
+.rss_lists .social-post:first-child .fac:after,
+.rss_lists .social-post:first-child .goo:after,
+.rss_lists .social-post:first-child .lin:after,
+.rss_lists .social-post:first-child .twit:after{
+    font: normal normal normal 20px/1 FontAwesome;
+    position: absolute;
+    top: -70px;
+    width: 50px;
+    height: 50px;
+    background: #8492af;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+        margin-left: -30px;
+}
+
+
+
+.rss_lists .social-post:first-child .fac:after{
+	content: "\f09a";
+}
+.rss_lists .social-post:first-child .goo:after{
+	content: "\f0d5";
+}
+.rss_lists .social-post:first-child .lin:after{
+ 	content: "\f0e1";
+}
+.rss_lists .social-post:first-child .twit:after{
+ 	content: "\f099"
+}
+
+.hashtags h4{
+	text-transform: uppercase;
+    font-size: 14px;
+
+}
+
+.hashtags .fa{
+    width: 40px;
+    height: 40px;
+    background: #8492af;
+    color: #fff;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+        font-size: 20px;
+}
+.hashtags .form-group input{
+	border: 0px !important
+}
+
+.hashtags li .form-group{
+
+border-bottom: 1px solid #ddd;
+padding-bottom: 3px;
+
+}
+
+.hashtag.rss .form-group{
+position: relative;
+}
+#change-group-status label{
+	padding-right: 0px;
+}
+#change-group-status label:after,
+#change-group-status label:before{
+	content: none;
+}
+
+.dropdown-menu:before{
+	content: "\f00d";
+    font: normal normal normal 14px/1 FontAwesome;
+    float: right;
+    display: block;
+    padding: 9px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    cursor: pointer;
+}
+.text-center-btn{
+	text-align: center;
+}
+.text-center-btn .btn{
+	display: inline-block;
+}

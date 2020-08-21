@@ -1,0 +1,16 @@
+[10-Mar-2018 00:44:43 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/api.php on line 16
+[10-Mar-2018 00:44:43 UTC] PHP Fatal error:  Class 'Broadcast' not found in /home/bulk/public_html/app/routes/channels.php on line 14
+[10-Mar-2018 00:44:43 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/bulk/public_html/app/routes/console.php on line 16
+[10-Mar-2018 00:44:43 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/web.php on line 27
+[09-Jun-2018 14:47:55 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/api.php on line 16
+[09-Jun-2018 14:47:55 UTC] PHP Fatal error:  Class 'Broadcast' not found in /home/bulk/public_html/app/routes/channels.php on line 14
+[09-Jun-2018 14:47:56 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/bulk/public_html/app/routes/console.php on line 16
+[09-Jun-2018 14:47:56 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/web.php on line 27
+[10-Jul-2018 04:04:48 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/api.php on line 16
+[10-Jul-2018 04:04:48 UTC] PHP Fatal error:  Class 'Broadcast' not found in /home/bulk/public_html/app/routes/channels.php on line 14
+[10-Jul-2018 04:04:48 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/bulk/public_html/app/routes/console.php on line 16
+[10-Jul-2018 04:04:48 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/web.php on line 27
+[10-Jul-2018 11:07:03 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/api.php on line 16
+[10-Jul-2018 11:07:04 UTC] PHP Fatal error:  Class 'Broadcast' not found in /home/bulk/public_html/app/routes/channels.php on line 14
+[10-Jul-2018 11:07:04 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/bulk/public_html/app/routes/console.php on line 16
+[10-Jul-2018 11:07:04 UTC] PHP Fatal error:  Class 'Route' not found in /home/bulk/public_html/app/routes/web.php on line 27

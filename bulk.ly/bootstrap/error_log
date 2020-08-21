@@ -1,0 +1,24 @@
+[10-Mar-2018 00:44:38 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[09-Jun-2018 14:47:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[10-Jul-2018 04:04:43 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[10-Jul-2018 11:06:59 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[28-Oct-2018 01:55:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[16-Nov-2018 20:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[16-Dec-2018 19:58:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[17-Jan-2019 00:19:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/bootstrap/app.php on line 14
+[16-Feb-2019 15:23:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bulk/public_html/app/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/bootstrap/app.php on line 14

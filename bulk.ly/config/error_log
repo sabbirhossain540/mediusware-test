@@ -1,0 +1,240 @@
+[10-Mar-2018 00:44:39 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/app.php on line 28
+[10-Mar-2018 00:44:39 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[10-Mar-2018 00:44:40 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/cache.php on line 18
+[10-Mar-2018 00:44:40 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/database.php on line 16
+[10-Mar-2018 00:44:40 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php on line 48
+[10-Mar-2018 00:44:40 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/mail.php on line 19
+[10-Mar-2018 00:44:40 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/queue.php on line 18
+[10-Mar-2018 00:44:41 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/services.php on line 18
+[10-Mar-2018 00:44:41 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/session.php on line 19
+[10-Mar-2018 00:44:41 UTC] PHP Fatal error:  Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php on line 17
+[09-Jun-2018 14:47:51 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/app.php on line 28
+[09-Jun-2018 14:47:52 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[09-Jun-2018 14:47:52 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/cache.php on line 18
+[09-Jun-2018 14:47:52 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/database.php on line 16
+[09-Jun-2018 14:47:52 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php on line 48
+[09-Jun-2018 14:47:52 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/mail.php on line 19
+[09-Jun-2018 14:47:53 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/queue.php on line 18
+[09-Jun-2018 14:47:53 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/services.php on line 18
+[09-Jun-2018 14:47:53 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/session.php on line 19
+[09-Jun-2018 14:47:53 UTC] PHP Fatal error:  Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php on line 17
+[10-Jul-2018 04:04:44 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/app.php on line 28
+[10-Jul-2018 04:04:44 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[10-Jul-2018 04:04:44 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/cache.php on line 18
+[10-Jul-2018 04:04:45 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/database.php on line 16
+[10-Jul-2018 04:04:45 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php on line 48
+[10-Jul-2018 04:04:45 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/mail.php on line 19
+[10-Jul-2018 04:04:45 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/queue.php on line 18
+[10-Jul-2018 04:04:45 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/services.php on line 18
+[10-Jul-2018 04:04:46 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/session.php on line 19
+[10-Jul-2018 04:04:46 UTC] PHP Fatal error:  Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php on line 17
+[10-Jul-2018 11:07:00 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/app.php on line 28
+[10-Jul-2018 11:07:00 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[10-Jul-2018 11:07:00 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/cache.php on line 18
+[10-Jul-2018 11:07:00 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/database.php on line 16
+[10-Jul-2018 11:07:01 UTC] PHP Fatal error:  Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php on line 48
+[10-Jul-2018 11:07:01 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/mail.php on line 19
+[10-Jul-2018 11:07:01 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/queue.php on line 18
+[10-Jul-2018 11:07:01 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/services.php on line 18
+[10-Jul-2018 11:07:01 UTC] PHP Fatal error:  Call to undefined function env() in /home/bulk/public_html/app/config/session.php on line 19
+[10-Jul-2018 11:07:02 UTC] PHP Fatal error:  Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php on line 17
+[28-Oct-2018 01:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/app.php on line 28
+[28-Oct-2018 01:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[28-Oct-2018 01:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/cache.php on line 18
+[28-Oct-2018 01:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/database.php on line 16
+[28-Oct-2018 01:55:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/filesystems.php on line 48
+[28-Oct-2018 01:55:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/mail.php on line 19
+[28-Oct-2018 01:55:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/queue.php on line 18
+[28-Oct-2018 01:55:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/services.php on line 18
+[28-Oct-2018 01:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/session.php on line 19
+[28-Oct-2018 01:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/view.php on line 17
+[16-Nov-2018 20:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/app.php on line 28
+[16-Nov-2018 20:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[16-Nov-2018 20:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/cache.php on line 18
+[16-Nov-2018 20:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/database.php on line 16
+[16-Nov-2018 20:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/filesystems.php on line 48
+[16-Nov-2018 20:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/mail.php on line 19
+[16-Nov-2018 20:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/queue.php on line 18
+[16-Nov-2018 20:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/services.php on line 18
+[16-Nov-2018 20:32:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/session.php on line 19
+[16-Nov-2018 20:32:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/view.php on line 17
+[16-Dec-2018 19:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/app.php on line 28
+[16-Dec-2018 19:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[16-Dec-2018 19:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/cache.php on line 18
+[16-Dec-2018 19:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/database.php on line 16
+[16-Dec-2018 19:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/filesystems.php on line 48
+[16-Dec-2018 19:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/mail.php on line 19
+[16-Dec-2018 19:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/queue.php on line 18
+[16-Dec-2018 19:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/services.php on line 18
+[16-Dec-2018 19:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/session.php on line 19
+[16-Dec-2018 19:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/view.php on line 17
+[17-Jan-2019 00:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/app.php on line 28
+[17-Jan-2019 00:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[17-Jan-2019 00:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/cache.php on line 18
+[17-Jan-2019 00:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/database.php on line 16
+[17-Jan-2019 00:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/filesystems.php on line 48
+[17-Jan-2019 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/mail.php on line 19
+[17-Jan-2019 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/queue.php on line 18
+[17-Jan-2019 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/services.php on line 18
+[17-Jan-2019 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/session.php on line 19
+[17-Jan-2019 00:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/view.php on line 17
+[16-Feb-2019 15:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/app.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/app.php on line 28
+[16-Feb-2019 15:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/broadcasting.php on line 18
+[16-Feb-2019 15:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/cache.php on line 18
+[16-Feb-2019 15:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/database.php on line 16
+[16-Feb-2019 15:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/bulk/public_html/app/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/filesystems.php on line 48
+[16-Feb-2019 15:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/mail.php on line 19
+[16-Feb-2019 15:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/queue.php on line 18
+[16-Feb-2019 15:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/services.php on line 18
+[16-Feb-2019 15:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bulk/public_html/app/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/session.php on line 19
+[16-Feb-2019 15:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bulk/public_html/app/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bulk/public_html/app/config/view.php on line 17
