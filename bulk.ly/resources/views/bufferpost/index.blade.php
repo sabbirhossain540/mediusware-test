@@ -3,28 +3,30 @@
 <div class="container-fluid app-body settings-page">
 	<h3>Buffer Post</h3>
 	<div class="row">
+		<form  method="GET" action="{{ route('bufferPosts.index') }}">
 		<div class="col-md-12">
-			<div class="col-md-4">
-				 <form class="input-group"  method="GET" action="{{ route('bufferPosts.index') }}">
-                  <input type="text" class="form-control" name="search" placeholder="Search" value="{{ request()->query('search') }}">
-                </form>
-			</div>
-			<div class="col-md-4">
-				<form class="input-group"  method="GET" action="{{ route('bufferPosts.index') }}">
-                  <input type="date" class="form-control" name="datesearch" placeholder="date" onselect="HandleDataSearch()">
-                </form>
-			</div>
-			<div class="col-md-4">
-				<form class="input-group"  method="GET" action="{{ route('bufferPosts.index') }}">
-                  <select class="form-control" name="groupSearch" id="groupSearch" placeholder="groupSearch">
-                  	<option value="">All Group</option>
-                  	<option value="upload">Upload</option>
-                  	<option value="curation">Curation</option>
-                  	<option value="rss-automation">RSS Automation</option>
-                  </select>
-                </form>
-			</div>
+			 
+				<div class="col-md-3">
+	                  <input type="text" class="form-control" name="search" placeholder="Search">
+				</div>
+				<div class="col-md-3">
+	                  <input type="date" class="form-control" name="dateSearch" placeholder="date">
+	                </form>
+				</div>
+				<div class="col-md-3">
+	                  <select class="form-control" name="groupSearch" id="groupSearch" placeholder="groupSearch">
+	                  	<option value="">All Group</option>
+	                  	<option value="upload">Upload</option>
+	                  	<option value="curation">Curation</option>
+	                  	<option value="rss-automation">RSS Automation</option>
+	                  </select>
+				</div>
+
+				<div class="col-md-3">
+	                  <button type="Submit" class="btn btn-success">Submit</button>
+				</div>
 		</div>
+		</form>
 	</div>
 	<div class="row">
 		<div class="col-md-12">
@@ -54,6 +56,11 @@
 </div>
 
 <script type="text/javascript">
+	$document().ready(function(){
+		$("#groupSearch").select(function(){
+			alert("ok");
+		});
+	});
 	
 </script>
 @endsection

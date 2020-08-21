@@ -1,12 +1,13 @@
 <?php
 
 namespace Bulkly\Http\Controllers;
-
+use DB;
 use Illuminate\Http\Request;
 
 use Bulkly\BufferPosting;
 
 use Bulkly\SocialPostGroups;
+
 
 class BufferController extends Controller
 {
@@ -18,13 +19,24 @@ class BufferController extends Controller
     public function index()
     { 
         $search = request()->query('search');
+        if(!$search){
+            $search = null;
+        }
+        $dateSearch = request()->query('dateSearch');
+        if(!$dateSearch){
+            $dateSearch = null;
+        }
         $groupSearch = request()->query('groupSearch');
-        
+
         if($search){
-            $allBufferPost = BufferPosting::where('post_text','LIKE', "%$search%")->paginate(10);
+            $allBufferPost = BufferPosting::where('sent_at','LIKE', "%$dateSearch%")
+                            ->where('post_text','LIKE', "%$search%")
+                            ->paginate(10);
         }else{
             $allBufferPost = BufferPosting::paginate(10);
         }
+
+        //dd($allBufferPost);
         
         return view('bufferpost.index')->with('bufferPosts', $allBufferPost)->with('socialGroups', SocialPostGroups::all());
     }
